@@ -26,14 +26,6 @@
 				"buffer_size": 3314,
 				"line_ending": "Windows"
 			}
-		},
-		{
-			"file": "/C/Users/blackie.tsai/Downloads/agency/agency/index.html",
-			"settings":
-			{
-				"buffer_size": 34794,
-				"line_ending": "Windows"
-			}
 		}
 	],
 	"build_system": "",
@@ -88,10 +80,11 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/blackie.tsai/Desktop/datingdoc"
+		"/Users/blackie/Desktop/Case/DatingDocRWD"
 	],
 	"file_history":
 	[
+		"/C/Users/blackie.tsai/Downloads/agency/agency/index.html",
 		"/C/AgileBet/Logs/Backoffice-Website/RIO_CREDIT/DEV-Backoffice-Website-All.log",
 		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Header/RIO_PRA/PKG_REPORT_BH.sql",
 		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_PRA/PKG_REPORT_BH.sql",
@@ -218,8 +211,7 @@
 		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_PATCHBASECURRENCY_SETTLED.sql",
 		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_PROCESSSUM_CDT.sql",
 		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_REPORT.sql",
-		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_TRANSFERACCOUNT_CDT.sql",
-		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_TRANSFERACCOUNT.sql"
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_TRANSFERACCOUNT_CDT.sql"
 	],
 	"find":
 	{
@@ -406,8 +398,8 @@
 						"selection":
 						[
 							[
-								3144,
-								3144
+								2010,
+								2010
 							]
 						],
 						"settings":
@@ -416,162 +408,61 @@
 							"auto_name": "",
 							"bh_regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda.tmTheme",
-							"side_bar_folders_auto_load_folder": 1,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 462.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/blackie.tsai/Downloads/agency/agency/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34794,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								19775,
-								22363
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
-								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
-								"bh_curly_content"
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
 							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda.tmTheme",
 							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5717.0,
+						"translation.y": 462.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
