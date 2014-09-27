@@ -9,19 +9,53 @@
     <link rel="stylesheet" href="css/mobile.css">
 </head>
 
-<body id="page-top" class="index">
-
-    <section id="header">
-        <div class="container">
-            header
+<body>
+    <!--Menu-->
+    <section id="menu">
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">約會診療室</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="#">介紹</a></li>
+                        <li><a href="#">立即加入</a></li>
+                        <li><a href="#">粉絲團</a>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">其他<span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="#">聯絡客服</a>
+                                </li>
+                                <li class="divider"></li>
+                                <li class="dropdown-header">Policy</li>
+                                <li>
+                                    <a href="http://datingdoc.info/Privacy_disclaimer_policy.htm">detail</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </section>
+
+    <!--Content-->
     <section id="content">
         <div class="row">
             <div class="col-lg-12">
                 <div class="container">
-                    <div class="video-container">
-                        <iframe id="video" src="http://www.youtube.com/embed/j8RD6Ltcfbk"></iframe>
+                    <div id="home-video" class="video-container">
+                        <iframe src="http://www.youtube.com/embed/j8RD6Ltcfbk"></iframe>
                     </div>
                     <div class="jumbotron" id="subscription">
                         <h1>情場致勝的秘密馬上開始學習，從今以後拿回愛情生活的主導權！</h1>
@@ -55,17 +89,7 @@
             </div>
         </div>
     </section>
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">版權所有© 2008–2014 · 約會診療室</span>
-                    <a href="#"><i class="fa fa-facebook"></i>粉絲團</a>
-                    <a href="http://datingdoc.info/Privacy_disclaimer_policy.htm"><i class="glyphicon glyphicon-flag"></i>Policy</a>
-                </div>
-            </div>
-        </div>
-    </footer>
+
     <!-- Javascript -->
     <script src="js/jquery-2.1.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
