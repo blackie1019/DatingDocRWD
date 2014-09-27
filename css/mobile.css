@@ -1,10 +1,18 @@
-#div-video{
+body{
+	background-image: url(../img/content/Free_Asian_Tour-BKiconW.jpg);
+}
+
+#div-first{
     margin-top:55px;
 }
 #div-subscription,#div-content{
 	margin-top:5px;
 }
 #div-submit {
+	margin-top:15px;
+	margin-bottom: 15px;
+}
+.media-bar{
 	margin-top:15px;
 	margin-bottom: 15px;
 }
