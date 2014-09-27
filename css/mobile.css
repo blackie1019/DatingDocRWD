@@ -1,8 +1,15 @@
-#home-video{
+#div-video{
     margin-top:55px;
 }
-#subscription{
+#div-subscription,#div-content{
 	margin-top:5px;
+}
+#div-submit {
+	margin-top:15px;
+	margin-bottom: 15px;
+}
+.menu-logo{
+padding: 0px;
 }
 .video-container {
     position: relative;
@@ -17,4 +24,9 @@
   left: 0;
   width: 100%;
   height: 100%;
+}
+.btn-xl {
+    padding: 18px 28px;
+    font-size: 22px;
+    border-radius: 8px;
 }
