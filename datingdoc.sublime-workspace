@@ -1,0 +1,662 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"cla",
+				"class	Attr"
+			],
+			[
+				"clas",
+				"ng-class	AngularJS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mobile.html",
+			"settings":
+			{
+				"buffer_size": 3314,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/blackie.tsai/Downloads/agency/agency/index.html",
+			"settings":
+			{
+				"buffer_size": 34794,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Html",
+				"HTMLPrettify"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/blackie.tsai/Desktop/datingdoc"
+	],
+	"file_history":
+	[
+		"/C/AgileBet/Logs/Backoffice-Website/RIO_CREDIT/DEV-Backoffice-Website-All.log",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Header/RIO_PRA/PKG_REPORT_BH.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_PRA/PKG_REPORT_BH.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Header/RIO_PRA/PKG_REPORT_LEDGER.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_PRA/PKG_REPORT_LEDGER.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Header/RIO_PRA/PKG_BH.sql",
+		"//172.17.23.191/c$/AgileBet/Logs/SPI/LDR_RIO_CREDIT/QAT-SPI-All.log",
+		"//172.16.45.193/c$/AgileBet/Logs/SPI/LDR_RIO_CREDIT/DEV-SPI-All.log",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/Type/RIO_ACCWAGER/CLS_SETTLERESULT.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_BETOPERATION.sql",
+		"/C/AgileBet/Logs/SPI/IntegrationTest/All.log",
+		"/C/Users/blackie.tsai/Desktop/youtube.html",
+		"/C/Users/blackie.tsai/Downloads/youtube.html",
+		"/D/01.SVN/CDT/AgileBet/branches/qa/current/CWB/src/CWB_NEW/WebSite/AgileBet.CDT.CWB.WebSite/Web.config",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/Procedure/RIO_PRA/UPDATESUMREPORT.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/Procedure/RIO_PRA/UPDATESUMREPORT_REGEN.sql",
+		"/C/Users/blackie.tsai/Desktop/test.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_PRA/PKG_BH.sql",
+		"//172.17.23.188/c$/AgileBet/Logs/Backoffice-Website/RIO_CREDIT/QAT-Backoffice-Website-All.log",
+		"/C/Users/blackie.tsai/Desktop/All_2014-09-15.log",
+		"//172.17.23.191/c$/AgileBet/Logs/SPI/RIO_CASH/All.log",
+		"//172.17.23.191/c$/AgileBet/Logs/SPI/RIO_CASH/All.log20140915-04",
+		"/D/01.SVN/CDT/AgileBet/trunk/Common/templates/web.sbk.spi/Web.config",
+		"/D/01.SVN/CDT/AgileBet/trunk/Common/templates/web.cwb.new/Web.config",
+		"/D/01.SVN/CDT/AgileBet/trunk/Common/templates/web.casino.spi/Web.config",
+		"/D/01.SVN/CDT/AgileBet/trunk/Common/Build/Environment.properties",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/DDL_Incremental/RIO_PRA/BHC_KENO.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/Logs/2014.09.03.17.51.48.DCR-177_PRA_02.RIO_PRA/BHC_KENO.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/Procedure/RIO_ACCWAGER/GETTRANSFERACCOUNTIDLIST.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/Procedure/RIO_PRA/GETREPORTACCOUNTIDLIST.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/Procedure/RIO_ACCWAGER/GETTRANSFERACCOUNTFROMMEM.sql",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/blackie.tsai/Desktop/Common SQL",
+		"/C/Users/blackie.tsai/Desktop/CreateSynonym.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Integration/Service/CAS/AgileBet.CDT.Integration.Service.CAS.Manager/App.config",
+		"/C/Users/blackie.tsai/Desktop/PlaceBet&SettleBet example.cs",
+		"/C/Users/blackie.tsai/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Header/RIO_ACCWAGER/PKG_BETPLACEMENT.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Header/RIO_ACCWAGER/PKG_BETTRANSACTION.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_BETPLACEMENT.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_BETTRANSACTION.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/Type/RIO_ACCWAGER/CLS_BETSETTING.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/Type/RIO_ACCWAGER/LIST_BETLOG.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/Type/RIO_ACCWAGER/LIST_SETTLEDBETLOG.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/Type/RIO_ACCWAGER/LIST_BETSETTING.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/Type/RIO_ACCWAGER/CLS_BETLOG.sql",
+		"/C/Users/blackie.tsai/Desktop/LIST_BETSETTING.sql",
+		"/C/Users/blackie.tsai/Desktop/LIST_BETLOG.sql",
+		"/C/Users/blackie.tsai/Desktop/CLS_BETLOG.sql",
+		"/C/Users/blackie.tsai/Desktop/CLS_BETSETTING.sql",
+		"/C/Users/blackie.tsai/Downloads/imp-4149_root.sql",
+		"/D/01.SVN/CDT/AgileBet/branches/ua/current/CWB/src/Common/Build/Environment.properties",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_LEDGERREPORT.sql",
+		"/C/Users/blackie.tsai/Downloads/imp-4149_0721fix.sql",
+		"/C/Users/blackie.tsai/Desktop/DEV Memo.txt",
+		"/C/Users/blackie.tsai/Desktop/DSA/imp-4149_best.sql",
+		"/D/01.SVN/CDT/AgileBet/branches/ua/current/CWB/src/Common/templates/web.wlb.spi/Web.config",
+		"/D/01.SVN/CDT/AgileBet/branches/ua/current/CWB/src/Common/templates/web.member.portal/Web.config",
+		"/C/Users/blackie.tsai/Desktop/BETHISTORY.sql",
+		"/C/Users/blackie.tsai/Desktop/LEDGERRIOPL.SQL",
+		"/C/Users/blackie.tsai/Desktop/BETHISTORYCALC.sql",
+		"/C/Users/blackie.tsai/Desktop/BETTRANSACTIONLOG.sql",
+		"/C/Users/blackie.tsai/Desktop/BetTransactionSetting.sql",
+		"//172.16.45.193/c$/AgileBet/Logs/SPI/RIO_CASH/All.log",
+		"/D/01.SVN/CDT/AgileBet/trunk/CDT.Common/AgileBet.CDT.Common/AgileBet.CDT.Opa.xml",
+		"/C/Users/blackie.tsai/Desktop/DataPatch.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Common/templates/web.keno.spi/Web.config",
+		"/D/01.SVN/CDT/AgileBet/trunk/Integration/SPI/Keno/BuildTest.bat",
+		"/C/Users/blackie.tsai/Desktop/PKG_LEDGERREPORT.GetWagerReport_ALL.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Integration/SPI/Member/AgileBet.CDT.Integration.SPI.Member/Web.config",
+		"/D/01.SVN/CDT/AgileBet/trunk/Integration/SPI/Member/AgileBet.CDT.Integration.SPI.Member.Test/app.config",
+		"/D/01.SVN/CDT/AgileBet/trunk/DSA/Settlement/AgileBet.CDT.Settlement.SettlementAggregate/AgileBet.CDT.Settlement.SettlementAggregate.csproj",
+		"/D/01.SVN/CDT/AgileBet/trunk/DSA/BetPlacement/AgileBet.CDT.BetPlacement.Test/AgileBet.CDT.BetPlacement.Test.csproj",
+		"/D/01.SVN/CDT/AgileBet/trunk/DSA/BetPlacement/AgileBet.CDT.BetPlacement.BetPlacementAggregate/AgileBet.CDT.BetPlacement.BetPlacementAggregate.csproj",
+		"/D/01.SVN/CDT/AgileBet/trunk/DSA/BetPlacement/AgileBet.CDT.BetPlacement.Test.sln",
+		"/C/Users/blackie.tsai/Desktop/WagerALL",
+		"/C/Users/blackie.tsai/Desktop/WagerAndLedger/IMP-4149.sql",
+		"/C/Users/blackie.tsai/Desktop/WagerAndLedger/All.log20140703-03_2",
+		"/C/Users/blackie.tsai/Desktop/WagerAndLedger/All.log20140703-03_1",
+		"/C/Users/blackie.tsai/Desktop/WagerAndLedger/IMP-4149.log",
+		"/C/Users/blackie.tsai/Desktop/hosts",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/DML_Incremental/RIO_ACCWAGER/IPD-187_06.sql",
+		"/C/Users/blackie.tsai/Desktop/WagerAndLedger/IMP-4149.log.txt",
+		"//172.17.23.191/c$/AgileBet/Logs/SPI/RIO_CASH/All.log20140604-04",
+		"/D/01.SVN/CDT/AgileBet/branches/ua/current/CWB/src/Common/Build/Extended.targets",
+		"/C/Users/blackie.tsai/Desktop/PKG_CREATEWAGER_NEW.sql",
+		"/C/Users/blackie.tsai/Desktop/test.csv",
+		"//172.16.45.193/c$/AgileBet/Logs/SPI/RIO_CASH/All.log20140519-14",
+		"/D/01.SVN/CDT/AgileBet/branches/qa/current/CWB/src/Common/Build/Environment.properties",
+		"//172.17.23.191/c$/AgileBet/Logs/SPI/RIO_CASH/All.log20140604-05",
+		"/D/01.SVN/CDT/AgileBet/branches/prd/current/CWB/src/Common/templates/web.wlb.spi/Web.config",
+		"/D/01.SVN/CDT/AgileBet/branches/prd/current/CWB/src/Common/Build/Extended.targets",
+		"/D/01.SVN/CDT/AgileBet/branches/prd/current/CWB/src/Common/Build/Environment.properties",
+		"/C/Users/blackie.tsai/Desktop/AgileBet.SingleSignOn.pdb",
+		"/D/01.SVN/CDT/AgileBet/trunk/Common/Build/Extended.targets",
+		"/D/01.SVN/CDT/AgileBet/trunk/Common/templates/web.wlb.spi/Web.config",
+		"/C/Users/blackie.tsai/Desktop/RUU&RUP/RUU-361/Views/Reports/GameReport.cshtml",
+		"/D/01.SVN/CDT/AgileBet/branches/qa/current/CWB/src/CWB_NEW/WebSite/AgileBet.CDT.CWB.WebSite/Content/style.css",
+		"/D/01.SVN/CDT/AgileBet/branches/qa/current/CWB/src/CWB_NEW/WebSite/AgileBet.CDT.CWB.WebSite/Templates/Currency/EffectiveCurrency.html",
+		"/D/01.SVN/CDT/AgileBet/branches/qa/current/CWB/src/CWB_NEW/WebSite/AgileBet.CDT.CWB.WebSite/AgileBet.CDT.CWB.WebSite.csproj",
+		"/C/Users/blackie.tsai/Desktop/RUU&RUP/RUU-361/Views/RiskManagement/NewMemberReport.cshtml",
+		"/C/Users/blackie.tsai/Desktop/RUU&RUP/RUU-361/Scripts/Views/AccountStatusAndProductList/Partner.js",
+		"/C/Users/blackie.tsai/Desktop/RUU&RUP/RUU-361/Content/style.css",
+		"/C/Users/blackie.tsai/Desktop/RUU&RUP/RUU-361/Content/style2.css",
+		"/C/Users/blackie.tsai/Desktop/RUU&RUP/RUU-361/Views/Reports/LedgerDetailByGame.cshtml",
+		"/C/Users/blackie.tsai/Desktop/combox_autocomplete.html",
+		"/D/01.SVN/CDT/AgileBet/branches/prd/current/CWB/src/Common/templates/web.cwb.new/Configuration/SystemSetting.config",
+		"//172.17.23.191/c$/AgileBet/Logs/SPI/RIO_CASH/All.log20140512-00",
+		"/C/Users/blackie.tsai/Desktop/Reference - 188 Accpac Pending Bets SQL",
+		"/D/01.SVN/CDT/AgileBet/trunk/Common/templates/web.cwb.new/Configuration/SystemSetting.config",
+		"/C/AgileBet/Logs/Backoffice/RIO_CREDIT/DEV-Backoffice-All.log",
+		"/D/01.SVN/CDT/AgileBet/branches/ua/current/CWB/src/Common/templates/web.cwb.new/Configuration/SystemSetting.config",
+		"/D/01.SVN/CDT/AgileBet/branches/qa/current/CWB/src/Common/templates/web.cwb.new/Configuration/SystemSetting.config",
+		"/D/01.SVN/CDT/AgileBet/branches/qa/current/CWB/src/Common/templates/web.member.portal/Configuration/SystemSetting.config",
+		"//172.17.23.191/c$/AgileBet/Logs/SPI/RIO_CASH/All.log20140428-02",
+		"//172.17.23.191/c$/AgileBet/Logs/SPI/RIO_CASH/All.log20140428-01",
+		"//172.17.23.191/c$/AgileBet/Logs/SPI/RIO_CASH/All.log20140428-03",
+		"/C/AgileBet/Logs/SPI/RIO_CASH/All.log",
+		"//172.17.23.191/c$/AgileBet/Logs/SPI/RIO_CASH/All.log20140428-04",
+		"/C/Users/blackie.tsai/Desktop/RUU-313/2014.04.25.13.00.27.RUU-313.RIO_ACCWAGER/myexec.sql",
+		"/C/Users/blackie.tsai/Desktop/RUU-313/2014.04.25.13.00.27.RUU-313.RIO_ACCWAGER/RUU-313.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_MARKETTYPEGROUP.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_OPAWAGER_SETTLEMENT.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_PATCHBASECURRENCY_SETTLED.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_PROCESSSUM_CDT.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_REPORT.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_TRANSFERACCOUNT_CDT.sql",
+		"/D/01.SVN/CDT/AgileBet/trunk/Database/PKG_Body/RIO_ACCWAGER/PKG_TRANSFERACCOUNT.sql"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"log",
+			"2.9",
+			"status",
+			"CWB_AppID",
+			">11<",
+			"11",
+			"try",
+			"finish",
+			"v_count",
+			"o_count",
+			"Test091101",
+			"exce",
+			"CLS_BETLOG",
+			"spi.cash",
+			"LDR",
+			"DbProviderOpa",
+			"RIO_ACCWAGER",
+			"BetOn",
+			"\n,",
+			"ProductId",
+			", ",
+			"\n,",
+			"ResolveAssemblyWarnOrErrorOnTargetArchitectureMismatch",
+			"[43]",
+			"2014-06-01",
+			"Winloss",
+			"[37]",
+			"intg.cdt.toutou.dev",
+			"http://intg.cdt.toutou.dev",
+			"RETURN",
+			"update",
+			":[]",
+			"[]",
+			"BAD0042764147913",
+			"UpdateBatchAdjustment",
+			"BAD0855",
+			"Task",
+			"Result,",
+			"[UpdateBatchAdjustment] Result,",
+			"exception",
+			"test0224",
+			"exception",
+			"head-content",
+			"_FilterInfo",
+			"TestAccount",
+			"RIO PP",
+			"test",
+			"magneto",
+			"sbkspi",
+			"batch",
+			"testing81",
+			"excep",
+			"bumc",
+			".207",
+			"bumc",
+			"exception",
+			"93",
+			"SETTLEMENTMODE_CASH",
+			"CREDIRROLLOVERMODE_WITHOUT",
+			"CREDIRROLLOVERMODE_WITH",
+			"CREDITRECOVERYMODE_AUTO\n/",
+			"CREDITRECOVERYMODE_MANUAL\n/",
+			"SETTLEMENTMODE_CREDIT\n/",
+			"SETTLEMENTMODE_CASH\n/",
+			"sso\n/",
+			";\n/",
+			"/",
+			"TransferAcctExport",
+			"ACCFacade.UpdateAvailableBalance",
+			"CreditRecoveryDaySetting",
+			"createuser",
+			"error",
+			"Testing70",
+			"test040901",
+			"register",
+			"[DSA]",
+			"[DSA]CreateAccountBalance: SettlementModeId=",
+			"[DSA]CreateAccountBalance: SettlementModeId={0}",
+			"ADJ0843519897347",
+			"adjustment",
+			"PKG_REPORT_CDT",
+			"PKG_UPTACCOUNTBALANCE",
+			"Testxuenn002",
+			"xuenn",
+			"PKG_ACC_CDT",
+			"CDT",
+			"PKG_ACC_CDT",
+			"login",
+			"RIO_DEV",
+			"700",
+			"\"BetMax\":",
+			"betmax",
+			"GetBPESetting",
+			"chimem21",
+			"DSA",
+			"creditRollOverWinning",
+			"Chipmab4",
+			"DSA",
+			"create",
+			"DSA",
+			"CreatePayment",
+			"uat-1079",
+			"CreateAccountBalance",
+			"uat-1079",
+			"newCreditBalance",
+			"1000",
+			"balance",
+			"spi.credit.toutou.dev",
+			"pp.",
+			"pp.toutout",
+			"sbkrm.ttqat.com",
+			"test0328",
+			"register",
+			"livedealer.dc",
+			"livedealer.dc.sit",
+			"http://livedealer.dc.sit/",
+			"test022801",
+			"UpdateSelfExclusion",
+			"ld.cdt.toutou.dev",
+			"sally",
+			"AddDays",
+			"172.16.45.248",
+			"RetrieveChurn",
+			"ReportWinLossByProduct",
+			"wolverine",
+			"{\"MemberTZ\":-240",
+			"ouch",
+			"test022801"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"RIO_PRA",
+			"",
+			"\"",
+			">",
+			"",
+			"../../../images/Rio",
+			"Rio"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mobile.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3144,
+								3144
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda.tmTheme",
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/blackie.tsai/Downloads/agency/agency/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19775,
+								22363
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda.tmTheme",
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5717.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "datingdoc.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
